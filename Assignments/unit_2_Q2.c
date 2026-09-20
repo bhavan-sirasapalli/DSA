@@ -72,7 +72,7 @@ void displayQueue() {
     printf("\n");
 }
 
-int main(void) {
+int main() {
     printf("Step 1: Fill the buffer capacity completely\n");
     enqueue(101);
     enqueue(102);
